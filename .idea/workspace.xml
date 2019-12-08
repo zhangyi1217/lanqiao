@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86c082f6-7b94-42fd-8c6b-db407c858ce7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/digui/jiecheng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/digui/sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jichu/NewShuLieQiuHe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiaotest/rumen/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiaotest/rumen/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jichu/shuliepaixu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jichu/shuliepaixu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rumen/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rumen/Fibonacci.java" afterDir="false" />
-    </list>
+    <list default="true" id="86c082f6-7b94-42fd-8c6b-db407c858ce7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,21 +13,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/digui/jiecheng.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-              <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,12 +66,6 @@
               <item name="lanqiaotest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lanqiaotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lanqiaotest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="digui" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -122,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jiecheng">
+  <component name="RunManager" selected="Application.fibonacci">
     <configuration name="NewShuLieQiuHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jichu.NewShuLieQiuHe" />
       <module name="lanqiaotest" />
@@ -136,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jiecheng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digui.jiecheng" />
+    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digui.fibonacci" />
       <module name="lanqiaotest" />
       <extension name="coverage">
         <pattern>
@@ -149,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="shiliuzhuan8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jichu.shiliuzhuan8" />
+    <configuration name="jiecheng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digui.jiecheng" />
       <module name="lanqiaotest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jichu.*" />
+          <option name="PATTERN" value="digui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibonacci" />
         <item itemvalue="Application.jiecheng" />
         <item itemvalue="Application.sum" />
         <item itemvalue="Application.NewShuLieQiuHe" />
         <item itemvalue="Application.shuliepaixu" />
-        <item itemvalue="Application.shiliuzhuan8" />
       </list>
     </recent_temporary>
   </component>
@@ -215,16 +187,15 @@
       <workItem from="1574173313197" duration="4945000" />
       <workItem from="1574426473563" duration="505000" />
       <workItem from="1574568953827" duration="366000" />
-      <workItem from="1575801242143" duration="568000" />
+      <workItem from="1575801242143" duration="793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26089000" />
+    <option name="totallyTimeSpent" value="26314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20840065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -235,7 +206,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2109589" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2109589" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -243,7 +214,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.49863014" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32961783" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
