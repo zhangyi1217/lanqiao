@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86c082f6-7b94-42fd-8c6b-db407c858ce7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lanqiaotest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lanqiaotest/jichu/shuliepaixu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lanqiaotest/rumen/Fibonacci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lanqiaotest/rumen/xulieqiuhe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lanqiaotest/rumen/yuan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jichu/shiliuzhuan8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jichu/shuliepaixu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rumen/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rumen/newfibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rumen/xulieqiuhe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rumen/yuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/digui/jiecheng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/digui/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jichu/NewShuLieQiuHe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiaotest/rumen/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiaotest/rumen/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jichu/shuliepaixu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jichu/shuliepaixu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rumen/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rumen/Fibonacci.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,35 +22,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rumen/newfibonacci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jichu/shuliepaixu.java">
+        <entry file="file://$PROJECT_DIR$/src/digui/jiecheng.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            <state relative-caret-position="135">
+              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jichu/shiliuzhuan8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -81,17 +53,20 @@
         <option value="$PROJECT_DIR$/src/rumen/yuan.java" />
         <option value="$PROJECT_DIR$/src/rumen/xulieqiuhe.java" />
         <option value="$PROJECT_DIR$/src/jichu/shiliuzhuan8.java" />
-        <option value="$PROJECT_DIR$/src/rumen/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/rumen/newfibonacci.java" />
         <option value="$PROJECT_DIR$/src/jichu/shuliepaixu.java" />
+        <option value="$PROJECT_DIR$/src/jichu/NewShuLieQiuHe.java" />
+        <option value="$PROJECT_DIR$/src/rumen/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/digui/sum.java" />
+        <option value="$PROJECT_DIR$/src/digui/jiecheng.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="358" />
-    <option name="y" value="95" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="114" />
+    <option name="y" value="41" />
     <option name="width" value="1075" />
-    <option name="height" value="612" />
+    <option name="height" value="644" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,8 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,12 +92,14 @@
               <item name="lanqiaotest" type="b2602c69:ProjectViewProjectNode" />
               <item name="lanqiaotest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jichu" type="462c0819:PsiDirectoryNode" />
+              <item name="digui" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,13 +122,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.shuliepaixu">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rumen.Fibonacci" />
+  <component name="RunManager" selected="Application.jiecheng">
+    <configuration name="NewShuLieQiuHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jichu.NewShuLieQiuHe" />
       <module name="lanqiaotest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rumen.*" />
+          <option name="PATTERN" value="jichu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="newfibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rumen.newfibonacci" />
+    <configuration name="jiecheng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digui.jiecheng" />
       <module name="lanqiaotest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rumen.*" />
+          <option name="PATTERN" value="digui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xulieqiuhe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rumen.xulieqiuhe" />
+    <configuration name="sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digui.sum" />
       <module name="lanqiaotest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rumen.*" />
+          <option name="PATTERN" value="digui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jiecheng" />
+        <item itemvalue="Application.sum" />
+        <item itemvalue="Application.NewShuLieQiuHe" />
         <item itemvalue="Application.shuliepaixu" />
         <item itemvalue="Application.shiliuzhuan8" />
-        <item itemvalue="Application.newfibonacci" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.xulieqiuhe" />
       </list>
     </recent_temporary>
   </component>
@@ -236,18 +211,22 @@
       <workItem from="1574050349903" duration="12421000" />
       <workItem from="1574081326467" duration="2005000" />
       <workItem from="1574091089157" duration="1457000" />
-      <workItem from="1574159647658" duration="3066000" />
+      <workItem from="1574159647658" duration="3822000" />
+      <workItem from="1574173313197" duration="4945000" />
+      <workItem from="1574426473563" duration="505000" />
+      <workItem from="1574568953827" duration="366000" />
+      <workItem from="1575801242143" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18949000" />
+    <option name="totallyTimeSpent" value="26089000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="358" y="95" width="1075" height="612" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22555663" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20840065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -256,7 +235,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35192308" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2109589" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,6 +256,37 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16650532" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14130434" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32961783" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -299,16 +309,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rumen/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/jichu/shiliuzhuan8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/rumen/newfibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="270">
           <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -316,19 +326,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jichu/shiliuzhuan8.java">
+    <entry file="file://$PROJECT_DIR$/src/jichu/shuliepaixu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="165">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jichu/shuliepaixu.java">
+    <entry file="file://$PROJECT_DIR$/src/jichu/NewShuLieQiuHe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state relative-caret-position="330">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/digui/sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rumen/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/digui/jiecheng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
           </folding>
         </state>
       </provider>
